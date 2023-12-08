@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hangfire.Web")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1309d90eb5fd9a87c0de5821849e735e1f4d5e31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0abfda51bdad7cdac57a74a99c7337df20752477")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hangfire.Web.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
