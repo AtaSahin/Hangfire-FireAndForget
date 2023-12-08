@@ -6,7 +6,7 @@ namespace Hangfire.Web.BackgroundJobs
     {
         public static void ReportingJob()
         {
-            Hangfire.RecurringJob.AddOrUpdate("ReportJob1",()=> EmailReport(),Hangfire.Cron.Minutely);
+            Hangfire.RecurringJob.AddOrUpdate("ReportJob1",()=> EmailReport(),Cron.Minutely);
         }
         public static void EmailReport()
         {
